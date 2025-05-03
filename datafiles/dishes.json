@@ -1,0 +1,18 @@
+{
+    "dishes": [
+        {
+            "name": "Spicy Taco",
+            "health": 30,
+            "damage_types": ["spice"],
+            "effects": ["burn"],
+            "special_effect": "buff_attack"
+        },
+        {
+            "name": "Plain Bread",
+            "health": 10,
+            "damage_types": [],
+            "effects": [],
+            "special_effect": ""  // ✅ Safe fallback
+        }
+    ]
+}
