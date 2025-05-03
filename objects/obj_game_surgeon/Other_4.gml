@@ -1,0 +1,1 @@
+audio_play_sound(snd_surgeon_battle, 0, true);

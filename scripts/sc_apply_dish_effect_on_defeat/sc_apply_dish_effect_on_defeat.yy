@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_apply_dish_effect_on_defeat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_apply_dish_effect_on_defeat",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
